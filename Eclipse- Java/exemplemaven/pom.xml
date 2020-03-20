@@ -3,4 +3,11 @@
   <groupId>fr.openclassrooms.installeride</groupId>
   <artifactId>exemplemaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  	<dependencies>
+		<dependency>
+			<groupId>net.imagej</groupId>
+			<artifactId>ij</artifactId>
+			<version>1.52o</version>
+		</dependency>
+	</dependencies>
 </project>
